@@ -13,7 +13,11 @@
 ### Habilidades
 🔧 Tecnologias:  
 - Linguagens: **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **Java**
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs, py, php, js, html, css, react, nextjs&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=java,nodejs, py, php, js, html, css, react, nextjs&theme=light)" />
+  </a>
+</p>
 - Bancos de dados: **MySQL**
 [![My Skills](https://skillicons.dev/icons?i=mysql, sqlite, mongodb&theme=light)](https://skillicons.dev)
 - Ferramentas: **Node.js**, **Git**, **XAMPP**, **Manjaro Linux**
