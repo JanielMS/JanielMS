@@ -26,10 +26,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JanielMS/JanielMS/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">💻 Estudante de Licenciatura em Computação e apaixonado por desenvolvimento de software. Sempre em busca de novos desafios e aprendizado constante.<br><br>📚 Atualmente focado em aprimorar minhas habilidades em HTML, CSS, JavaScript, PHP, Python e explorando novas tecnologias para desenvolvimento back-end e mobile.</p>
 
 ###
@@ -102,6 +98,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JanielMS/JanielMS/output/snake.svg" alt="Snake animation" />
-
-###
