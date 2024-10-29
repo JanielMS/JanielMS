@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
- <i></i>[![GitHub Streak](https://streak-stats.demolab.com?user=JanielMS&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)</i>
+ <i>[![GitHub Streak](https://streak-stats.demolab.com?user=JanielMS&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)</i>
 </p>
 ---
 
