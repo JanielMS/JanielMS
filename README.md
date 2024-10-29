@@ -94,7 +94,7 @@
 
 ###
 
-<h4 align="left">🔅 Estou sempre em busca de melhorar e aprender novas tecnologias para desenvolver soluções inovadoras e impactantes. Cada projeto é uma oportunidade de crescimento, tanto pessoal quanto profissional. Se você, assim como eu, acredita que o poder da tecnologia pode transformar o mundo, vamos nos conectar e colaborar em ideias que possam fazer a diferença. Seja desenvolvendo sistemas eficientes, aprimorando experiências educacionais ou criando plataformas inclusivas, juntos podemos construir um futuro mais acessível e inteligente.</h4>
+<h4 align="left">🔅 Estou sempre em busca de melhorar e aprender novas tecnologias para desenvolver soluções inovadoras e impactantes. Cada projeto é uma oportunidade de crescimento, tanto pessoal quanto profissional. </br>Se você, assim como eu, acredita que o poder da tecnologia pode transformar o mundo, vamos nos conectar e colaborar em ideias que possam fazer a diferença. Seja desenvolvendo sistemas eficientes, aprimorando experiências educacionais ou criando plataformas inclusivas, juntos podemos construir um futuro mais acessível e inteligente.</h4>
 
 ###
 
