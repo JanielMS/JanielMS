@@ -15,7 +15,7 @@
 - Linguagens: **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **Java**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=java,nodejs, py, php, js, html, css, react, nextjs&theme=light)" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs, py, php, js, html, css, react, nextjs&theme=light" />
   </a>
 </p>
 - Bancos de dados: **MySQL**
