@@ -14,9 +14,7 @@
 🔧 Tecnologias:  
 - Linguagens: **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **Java**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs, py, php, js, html, css, react, nextjs&theme=light" />
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=java,nodejs, py, php, js, html, css, react, nextjs&theme=light)](https://skillicons.dev)
 </p>
 - Bancos de dados: **MySQL**
 [![My Skills](https://skillicons.dev/icons?i=mysql, sqlite, mongodb&theme=light)](https://skillicons.dev)
