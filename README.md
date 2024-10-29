@@ -13,11 +13,11 @@
 ### Habilidades
 🔧 Tecnologias:  
 - Linguagens: **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **Java**
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs, python, php, js, html, css, react, nextjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs, py, php, js, html, css, react, nextjs&theme=light)](https://skillicons.dev)
 - Bancos de dados: **MySQL**
-[![My Skills](https://skillicons.dev/icons?i=sql, mysql, mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql, sqlite, mongodb&theme=light)](https://skillicons.dev)
 - Ferramentas: **Node.js**, **Git**, **XAMPP**, **Manjaro Linux**
-[![My Skills](https://skillicons.dev/icons?i=linux, git, xampp&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=linux, git&theme=light)](https://skillicons.dev)  
 
 🎯 Foco atual:  
 Desenvolvimento web e integração de tecnologias **front-end** e **back-end** em projetos baseados em **JavaScript** e **Python**.
