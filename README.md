@@ -88,11 +88,6 @@
 
 ###
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=JanielMS&theme=transparent&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-</div>
-
-###
 
 <h4 align="left">🔅 Estou sempre em busca de melhorar e aprender novas tecnologias para desenvolver soluções inovadoras e impactantes. Cada projeto é uma oportunidade de crescimento, tanto pessoal quanto profissional. </br>Se você, assim como eu, acredita que o poder da tecnologia pode transformar o mundo, vamos nos conectar e colaborar em ideias que possam fazer a diferença. Seja desenvolvendo sistemas eficientes, aprimorando experiências educacionais ou criando plataformas inclusivas, juntos podemos construir um futuro mais acessível e inteligente.</h4>
 
