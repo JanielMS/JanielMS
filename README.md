@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JanielMS&theme=transparent&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=JanielMS&theme=transparent&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 </div>
 
 ###
